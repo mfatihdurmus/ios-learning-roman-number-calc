@@ -1,1 +1,3 @@
-# ios-learning-roman-number-calc
+# ios learning project
+
+Roman number calculator
